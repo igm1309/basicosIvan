@@ -15,6 +15,7 @@ public class BasicosIvan {
     public static void main(String[] args) {
            numericos();
         cadenas();
+        logicos();
     }
     
      /**
